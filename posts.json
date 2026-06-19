@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "你好，世界：我的第一篇自动发布文章",
+    "slug": "hello-world",
+    "date": "2026-06-20",
+    "summary": "这是通过 web2page 自动发布到 GitHub Pages 的第一篇文章，用来验证整个发布流程。"
+  }
+]
